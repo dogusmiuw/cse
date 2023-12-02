@@ -1,0 +1,6 @@
+[Kemal](mailto:kemalcizmeci@gmail.com)
+[Raşit](mailto:m.rasitakca@gmail.com)
+[Fatih](mailto:fsaygin2504@gmail.com)
+[Halit](mailto:halit@domainmerkezi.net)
+[İzzettin](mailto:izzettinncoskun@gmail.com)
+[Tuğçe](mailto:newnoise03@gmail.com)

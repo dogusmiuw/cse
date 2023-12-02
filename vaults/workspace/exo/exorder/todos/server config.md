@@ -1,0 +1,3 @@
+- panel için domain aç `[!!done:done]`
+- nodejs config yap `[!!done:done]`
+- env dosyalarına geç `[!!todo:todo]`
