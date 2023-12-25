@@ -1,0 +1,5 @@
+N-tier architecture
+MVC
+Dependency Injection
+Generic Questions on Angular
+Async, await
