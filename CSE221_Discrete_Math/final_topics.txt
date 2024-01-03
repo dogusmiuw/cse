@@ -1,0 +1,10 @@
+[28.12.2023 22:56] Murat AkFinal Topics
+    Dear students, here are the topics in the final exam:
+	
+Inclusion-Exclusion (all of the chapter in the book)
+Generating functions (only the parts we covered)
+Combinatorics
+Mathematical Induction	
+Pigeonhole principle
+
+You may expect 60-70 pts from the bold ones and 30-40 pts from the others(previous topics)
