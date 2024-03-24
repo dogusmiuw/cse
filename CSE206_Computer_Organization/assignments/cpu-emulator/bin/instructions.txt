@@ -1,0 +1,46 @@
+START
+=> start execution
+
+LOAD X
+=> load X value to AC
+
+LOADM X
+=> load M[X] value to AC
+
+STORE X
+=> store the value of AC to memory location M[X]
+
+CMPM X
+=> if AC > M[X] => set F flag to 1
+=> if AC < M[X] => set F flag to -1
+=> if AC = M[X] => set F flag to 0
+
+CJMP X
+=> if F flag value is positive, then update the program counter(PC) with X value.
+
+JMP X
+=> update PC value with X
+
+ADD X
+=> add X to AC
+
+ADDM X
+=> add M[X] to AC
+
+SUB X
+=> subtract X from AC
+
+SUBM X
+=> subtract M[X] from AC
+
+MUL X
+=> multiply AC with X
+
+MULM X
+=> multiply AC with M[X]
+
+DISP
+=> display the value of AC
+
+HALT
+=> stop execution
