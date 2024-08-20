@@ -1,0 +1,6 @@
+* These complexities don't relate to each other.
+  Theoretical complexity function (n) is an increasing function
+  whereas practical complexity function is not an increasing function.
+  If we inspect the practical complexity function's graph, y value(in miliseconds) 
+  decreases as the sample size increases from 20K to 30K and 40K to 50K and 
+  60K to 70K and 80K to 90K.

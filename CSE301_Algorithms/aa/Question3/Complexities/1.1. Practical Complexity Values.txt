@@ -1,0 +1,17 @@
+Time taken for 1 elements: 20643.576 ms
+Time taken for 4096 elements: 25905.766 ms
+Time taken for 8192 elements: 5181.736 ms
+Time taken for 12288 elements: 5488.1 ms
+Time taken for 16384 elements: 6046.041 ms
+Time taken for 20480 elements: 6142.0 ms
+Time taken for 24576 elements: 6180.753 ms
+Time taken for 28672 elements: 6215.98 ms
+Time taken for 32768 elements: 5902.77 ms
+Time taken for 36864 elements: 7159.58001 ms
+Time taken for 40960 elements: 5629.328 ms
+Time taken for 45056 elements: 6025.122 ms
+Time taken for 49152 elements: 5113.99699 ms
+Time taken for 53248 elements: 6064.242 ms
+Time taken for 57344 elements: 5453.17501 ms
+Time taken for 61440 elements: 5361.505 ms
+Time taken for 65535 elements: 6137.31699 ms

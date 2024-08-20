@@ -1,0 +1,7 @@
+Assume for simplicity that n is odd and k is even. If the set S was in sorted
+order, the median is in position n/2 and the k numbers in S that closest to the median
+are in positions (n − k)/2 through (n + k)/2. We first use linear time selection to find
+the (n − k)/2, n/2, and (n + k)/2 elements and then pass through the set S to find the
+numbers less than (n+k)/2 element, greater than the (n−k)/2 element, and not equal to
+the n/2 element. The algorithm takes O(n) time as we use linear time selection exactly
+three times and traverse the n numbers in S once.

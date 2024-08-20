@@ -1,0 +1,10 @@
+Solution: Modify the Partition procedure of Quicksort to use the Select algorithm
+to choose the median of the input array as the pivot element. The worst-case running
+time of Select is linear, so we do not increase the time requirement of Partition, and
+selecting the median as pivot guarantees the input is split into two equal parts, so that
+we always have the best-case partitioning. The running time of the entire computation is
+then given by the recurrence T(n)=2 T(n/2) + O(n) = O(n lg n).
+
+we can achieve O(nLogn) worst case. The idea is based on the fact that the median element of 
+an unsorted array can be found in linear time. So we find the median first, then partition the
+array around the median element.

@@ -1,0 +1,16 @@
+
+
+
+
+	Question 1 -> Optimizaiton Problem with Dynamic Programming (50)
+		A-> Write Recursive Formulation 
+		B-> Write Dynamic Programming Code
+		C-> Draw Dynamic Programming Table According to DP Code and Recursive Formulaiton
+		D-> Show overlapping subproblems anb calculate DP algorithm runtime complexity
+
+	Question 2 > Optimizaiton Problem with Greedy Algorithm (30)
+		A-> Write Greedy Code
+		B-> Proof Greedy Choice Property
+
+	Question 3 -> Amortized Analysis (with Potential Method Or Accounting Method) (20)
+		

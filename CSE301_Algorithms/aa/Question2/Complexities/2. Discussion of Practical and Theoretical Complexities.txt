@@ -1,0 +1,5 @@
+* These complexities don't relate to each other.
+  Theoretical complexity function (n * logn) is an increasing function
+  whereas practical complexity function is not an increasing function.
+  If we inspect the practical complexity function's graph, y value(in miliseconds) 
+  decreases as the sample size increases from 10K to 20K and 70K to 80K. 

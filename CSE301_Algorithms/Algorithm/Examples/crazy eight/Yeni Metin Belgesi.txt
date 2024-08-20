@@ -1,0 +1,4 @@
+https://www.geeksforgeeks.org/egg-dropping-puzzle-dp-11/
+https://massivealgorithms.blogspot.com/2017/07/dynamic-programming-crazynumbers-techie.html
+http://techieme.in/crazynumbers-dynamic-programming/
+https://leetcode.com/problems/happy-number/

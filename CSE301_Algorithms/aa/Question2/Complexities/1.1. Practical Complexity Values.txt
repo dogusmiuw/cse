@@ -1,0 +1,10 @@
+Time taken for 10000 elements: 24.456 ms
+Time taken for 20000 elements: 18.876 ms
+Time taken for 30000 elements: 28.49699 ms
+Time taken for 40000 elements: 51.276 ms
+Time taken for 50000 elements: 67.222 ms
+Time taken for 60000 elements: 87.33301 ms
+Time taken for 70000 elements: 109.677 ms
+Time taken for 80000 elements: 90.57099 ms
+Time taken for 90000 elements: 98.323 ms
+Time taken for 100000 elements: 114.193 ms

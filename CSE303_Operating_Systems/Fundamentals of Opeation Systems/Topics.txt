@@ -1,0 +1,10 @@
+- True/False Questions (All chapters)
+- Comment questions (Scheduling)
+- The fork system call
+- Process Scheduling
+- Memory Management (pages, frames, memory mapping etc..)
+- Multithreading
+- Synchronization problems (concurrency)
+- Semaphore and mutexes (practical)
+- Deadlocks
++ Minix installation (practical )
